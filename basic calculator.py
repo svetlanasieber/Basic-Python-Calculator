@@ -1,7 +1,7 @@
 print("Welcome to calculator!")
 print("I hope you're not using it to cheat!")
 print("__________________________________________")
-print("Version 1.0")
+print("Version 2.0")
 print("The amount of numbers you can use is 2")
 
 
